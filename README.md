@@ -2,9 +2,9 @@
 
 A step-by-step workshop for building an MCP (Model Context Protocol) server using FastMCP.
 
-## Stage 2: Docker Hub Image Search
+## Stage 4: Tag Comparison and Layer Analysis
 
-This stage adds Docker Hub integration with the ability to search for container images.
+This stage adds intelligent comparison tools and layer analysis with caching and helpful error messages.
 
 ## Prerequisites
 
